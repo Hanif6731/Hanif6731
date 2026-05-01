@@ -59,9 +59,48 @@ I am a **Senior Software Engineer** with over 5 years of experience building sca
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanif6731&show_icons=true&theme=tokyonight" alt="Md. Hanif's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanif6731&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanif6731&show_icons=true&theme=dark&hide_border=true" alt="Md. Hanif's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanif6731&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="170" />
 </p>
+
+---
+
+### 🎓 Education
+- **B.Sc. in Computer Science & Engineering**
+  - American International University-Bangladesh (AIUB) | Jan 2021
+  - **CGPA: 3.88 / 4.00**
+
+---
+
+### 📜 Certifications
+
+<details>
+  <summary><b>Programming & Frameworks</b></summary>
+  <ul>
+    <li>C# (Basic) – HackerRank</li>
+    <li>JavaScript (Intermediate) – HackerRank</li>
+    <li>Front-End Web Development with React – Coursera</li>
+    <li>The Complete Android Q + Java Developer Course – Udemy</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Data & AI</b></summary>
+  <ul>
+    <li>SQL (Advanced) – HackerRank</li>
+    <li>Neural Networks and Deep Learning – Coursera</li>
+    <li>Machine Learning for All – Coursera</li>
+    <li>Introduction to Data Science in Python – Coursera</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Problem Solving</b></summary>
+  <ul>
+    <li>Problem Solving (Intermediate) – HackerRank</li>
+    <li>Problem Solving (Basic) – HackerRank</li>
+  </ul>
+</details>
 
 ---
 
