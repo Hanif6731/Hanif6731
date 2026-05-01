@@ -59,11 +59,6 @@ I am a **Senior Software Engineer** with over 5 years of experience building sca
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanif6731&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Md. Hanif's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanif6731&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanif6731&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
