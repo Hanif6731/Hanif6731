@@ -51,14 +51,14 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
 <details open>
   <summary><b>Data, AI & Infrastructure</b></summary>
   <p align="left">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/Lucene-D22128?style=flat-square&logo=apache&logoColor=white" alt="Lucene">
     <img src="https://img.shields.io/badge/Gemini%20%2F%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini / Vertex AI">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square" alt="Azure DevOps">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
   </p>
