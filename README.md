@@ -1,116 +1,102 @@
 # 👋 Hi, I'm Md. Hanif
-### Senior Software Engineer | Full-Stack Expert (.NET, React, TypeScript)
+### Senior Software Engineer · .NET / F# · Full-Stack · LLM Systems
 
 <p align="left">
-  <a href="https://linkedin.com/in/imhanif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:iam.mdhanif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://xchanze.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
+  <a href="https://linkedin.com/in/imhanif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iam.mdhanif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://xchanze.com" target="_blank"><img src="https://img.shields.io/badge/xChanze-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="xChanze"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a **Senior Software Engineer** with over 5 years of experience building scalable high-traffic systems. Currently, I'm at **Chaldal**, where I lead technical initiatives for core business workflows, LLM integrations, and microservices architecture. I thrive on solving complex architectural challenges and driving product innovation.
+Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest online grocery), building high-throughput backend and full-stack systems in .NET/F# and React. I own systems end to end — architecture, delivery, operations, mentoring — and I like problems where correctness and scale both matter: supply-chain logistics, customer-success tooling, geocoding, and LLM pipelines in production.
 
-- 🔭 Currently working on **Architecting Scalable Microservices** and **LLM-driven automation**.
-- 🌱 Expertise in **.NET, F#, React, and Cloud Native** technologies.
-- 💬 Ask me about **System Design, Microservices, and Event-Driven Architecture**.
-- 📫 How to reach me: **iam.mdhanif@gmail.com**
+- 🔭 Currently: a Gemini (Vertex AI Batch) prompt pipeline serving **~70k LLM requests/day**, and an in-house geocoding system that replaced Google Maps API entirely
+- 🛠️ Building on the side: **xRetail** (POS for small shops) and a real-estate platform for **Purple Holdings**
+- 💬 Ask me about F#, event-driven architecture, state machines, and running LLM workloads cheaply
+- 🌏 Open to senior backend / full-stack roles — Australia or remote
+- 📫 iam.mdhanif@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
 <details open>
-  <summary><b>Languages & Core</b></summary>
+  <summary><b>Languages</b></summary>
   <p align="left">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="F#">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   </p>
 </details>
 
 <details open>
-  <summary><b>Frameworks & Libraries</b></summary>
+  <summary><b>Backend & Frontend</b></summary>
   <p align="left">
-    <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/Giraffe-378BBA?style=flat-square&logo=fsharp&logoColor=white" alt="Giraffe">
+    <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core">
+    <img src="https://img.shields.io/badge/Hangfire-2A3F54?style=flat-square" alt="Hangfire">
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   </p>
 </details>
 
 <details open>
-  <summary><b>Infrastructure & Databases</b></summary>
+  <summary><b>Data, AI & Infrastructure</b></summary>
   <p align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps">
+    <img src="https://img.shields.io/badge/Lucene-D22128?style=flat-square&logo=apache&logoColor=white" alt="Lucene">
+    <img src="https://img.shields.io/badge/Gemini%20%2F%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini / Vertex AI">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
   </p>
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Highlights @ Chaldal
+- **LLM batch pipeline** — Gemini (Vertex AI Batch API) with user-defined prompt templates and runtime variable injection; **~70k requests/day** across sales-messaging and address-normalization workflows.
+- **Mapping System (tech lead)** — in-house geocoding + LLM-assisted address matching for **1.5k–3k addresses/day**; match accuracy **+40%**, Google Maps API cost **−100%**; nightly OpenStreetMap sync.
+- **Premium Care** — customer-success microservice (F#/.NET, React, MSSQL) for **100k+ customers** and a ~300-agent sales team; state-machine lifecycle automation replaced hand-built daily call lists.
+- **Vegetable Network** — F#/Giraffe backend for a perishable-goods supply chain: algorithmic vendor bidding, inventory sorting, warehouse distribution, real-time wastage tracking.
+- **Marketing campaign engine** — Redis-staged, Hangfire-worker pipeline that chews through 100k-number CSV uploads in chunks without touching MSSQL.
+- **Mentoring** — F#/functional programming and clean architecture for junior engineers; code reviews and technical planning for a 4–6 person team.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanif6731&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
+---
+
+### 🧪 Side Projects
+
+| Project | What | Stack |
+|---|---|---|
+| **[xRetail: Shop & POS Manager](https://play.google.com/store/apps/details?id=com.xchanze.shopmanager)** | POS + store management for small shops: real-time inventory, barcode scanning, invoicing, customer/supplier management, stats dashboard. **100+ active users.** | Flutter (Riverpod) + Shorebird OTA · .NET Clean Architecture/CQRS API · PostgreSQL · OpenTelemetry |
+| **[Purple Holdings](https://purpleholdingltd.com)** | Real-estate platform for a Dhaka developer: apartment, land and joint-venture listings, area/type search, project portfolio, blog, multi-channel lead capture. **~2k visitors/day.** | Next.js (static pre-render) · Hono API on Node.js · PostgreSQL · Cloudflare · pnpm monorepo |
 
 ---
 
 ### 🎓 Education
-- **B.Sc. in Computer Science & Engineering**
-  - American International University-Bangladesh (AIUB) | Jan 2021
-  - **CGPA: 3.88 / 4.00**
+- **B.Sc. in Computer Science & Engineering** — American International University-Bangladesh (AIUB), Feb 2017 – Dec 2020
+- CGPA **3.88 / 4.00** · Dean's List · 5th, Intra-AIUB Programming Contest 2018
 
 ---
 
 ### 📜 Certifications
-
-<details>
-  <summary><b>Programming & Frameworks</b></summary>
-  <ul>
-    <li>C# (Basic) – HackerRank</li>
-    <li>JavaScript (Intermediate) – HackerRank</li>
-    <li>Front-End Web Development with React – Coursera</li>
-    <li>The Complete Android Q + Java Developer Course – Udemy</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Data & AI</b></summary>
-  <ul>
-    <li>SQL (Advanced) – HackerRank</li>
-    <li>Neural Networks and Deep Learning – Coursera</li>
-    <li>Machine Learning for All – Coursera</li>
-    <li>Introduction to Data Science in Python – Coursera</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Problem Solving</b></summary>
-  <ul>
-    <li>Problem Solving (Intermediate) – HackerRank</li>
-    <li>Problem Solving (Basic) – HackerRank</li>
-  </ul>
-</details>
-
----
-
-### 🏆 Professional Highlights
-- **Engineered** a "Premium Care" microservice that improved sales efficiency by **40%**.
-- **Automated** manual data processing by **80%** using LLM integrations.
-- **Optimized** high-traffic systems using Redis, reducing DB load by **60%**.
-- **Revamped** location services with Lucene, achieving near **100% accuracy**.
+- **HackerRank:** Software Engineer · SQL (Advanced) · REST API · Problem Solving · JavaScript
+- **Coursera:** Neural Networks & Deep Learning · Front-End Web Development with React · Machine Learning for All · Introduction to Data Science in Python
 
 ---
 
 <p align="center">
-  <i>"Passionate about building software that scales and innovating through technology."</i>
+  <i>Build it to scale, keep it boring enough to run at 3am.</i>
 </p>
