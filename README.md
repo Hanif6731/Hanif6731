@@ -12,7 +12,7 @@
 ### 🚀 About Me
 Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest online grocery), building high-throughput backend and full-stack systems in .NET/F# and React. I own systems end to end — architecture, delivery, operations, mentoring — and I like problems where correctness and scale both matter: supply-chain logistics, customer-success tooling, geocoding, and LLM pipelines in production.
 
-- 🔭 Currently: a Gemini (Vertex AI Batch) prompt pipeline serving **~70k LLM requests/day**, and an in-house geocoding system that replaced Google Maps API entirely
+- 🔭 Currently leading **Premium Care**, Chaldal's customer-success CRM — a state-machine-driven microservice serving 100k+ customers and a ~300-agent sales team; previously built the Gemini batch LLM pipeline (**~70k requests/day**) and the in-house geocoding system that replaced Google Maps API
 - 🛠️ Building on the side: **xRetail** (POS for small shops) and a real-estate platform for **Purple Holdings**
 - 💬 Ask me about F#, event-driven architecture, state machines, and running LLM workloads cheaply
 - 🌏 Open to senior backend / full-stack roles — remote or relocation
