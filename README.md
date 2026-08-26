@@ -56,6 +56,8 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
     <img src="https://img.shields.io/badge/Lucene-D22128?style=flat-square&logo=apache&logoColor=white" alt="Lucene">
     <img src="https://img.shields.io/badge/Gemini%20%2F%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini / Vertex AI">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square" alt="Azure DevOps">
@@ -78,10 +80,13 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
 
 ### 🧪 Side Projects
 
-| Project | What | Stack |
-|---|---|---|
-| **[xRetail: Shop & POS Manager](https://play.google.com/store/apps/details?id=com.xchanze.shopmanager)** | POS + store management for small shops: real-time inventory, barcode scanning, invoicing, customer/supplier management, stats dashboard. **100+ active users.** | Flutter (Riverpod) + Shorebird OTA · .NET Clean Architecture/CQRS API · PostgreSQL · OpenTelemetry |
-| **[Purple Holdings](https://purpleholdingltd.com)** | Real-estate platform for a Dhaka developer: apartment, land and joint-venture listings, area/type search, project portfolio, blog, multi-channel lead capture. **~2k visitors/day.** | Next.js (static pre-render) · Hono API on Node.js · PostgreSQL · Cloudflare · pnpm monorepo |
+**[xRetail: Shop & POS Manager](https://play.google.com/store/apps/details?id=com.xchanze.shopmanager)** — Flutter, ASP.NET Core 10, PostgreSQL, Redis, RabbitMQ, K3s
+- Architected a clean-architecture/CQRS backend with explicit domain state machines and a double-entry ledger; money and stock mutations guarded by Redis distributed locks, optimistic concurrency and idempotency keys.
+- Ships to **100+ active users** via Shorebird OTA; self-hosted K3s behind Cloudflare Tunnel with RabbitMQ outbox consumers (push, email) and OpenTelemetry/Grafana observability.
+
+**[Purple Holdings Ltd Website](https://purpleholdingltd.com)** — Next.js, Node.js (Hono), PostgreSQL, Cloudflare
+- Built a three-service monorepo (public site, admin portal, Hono API) with Zod contracts validated at the network boundary; public pages fully pre-rendered at build time for SEO — enforced by a JS-disabled e2e test.
+- Price-gated lead capture (WhatsApp/Messenger/email) turns every price request into a CRM lead; **~2k visitors/day**.
 
 ---
 
