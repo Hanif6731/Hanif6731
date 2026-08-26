@@ -15,7 +15,7 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
 - 🔭 Currently: a Gemini (Vertex AI Batch) prompt pipeline serving **~70k LLM requests/day**, and an in-house geocoding system that replaced Google Maps API entirely
 - 🛠️ Building on the side: **xRetail** (POS for small shops) and a real-estate platform for **Purple Holdings**
 - 💬 Ask me about F#, event-driven architecture, state machines, and running LLM workloads cheaply
-- 🌏 Open to senior backend / full-stack roles — Australia or remote
+- 🌏 Open to senior backend / full-stack roles — remote or relocation
 - 📫 iam.mdhanif@gmail.com
 
 ---
