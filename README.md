@@ -74,7 +74,7 @@ Senior Software Engineer with 5+ years at **Chaldal (YC S15)**, Bangladesh's lar
 - **Mapping & geocoding (tech lead)** — in-house mapping service resolving **1.5k–3k addresses/day**; OpenStreetMap importer with nightly delta sync; LLM-assisted matching raised accuracy **+40%** and took address resolution off paid geocoding.
 - **Vegetable Network (primary owner)** — 228 of 516 merged PRs on an F#/Giraffe perishable-goods supply-chain platform; sole author of vendor bidding; sorting, packaging and loading-bay distribution algorithms that opened a B2B channel.
 - **Accounting automation** — double-entry ledger event model on Hangfire jobs with entity locks, deadlock handling and an idempotent pending-event queue that retries without double-posting.
-- **Leadership** — mentored junior engineers on F#, functional programming and clean architecture; coordinated releases and supported teammates through code reviews.
+- **Leadership** — mentored 2–3 junior engineers, performed PR reviews and ran technical planning sessions.
 
 ---
 
