@@ -10,12 +10,12 @@
 ---
 
 ### 🚀 About Me
-Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest online grocery), building high-throughput backend and full-stack systems in .NET/F# and React. I own systems end to end — architecture, delivery, operations, mentoring — and I like problems where correctness and scale both matter: supply-chain logistics, customer-success tooling, geocoding, and LLM pipelines in production.
+Senior Software Engineer with 5+ years at **Chaldal (YC S15)**, Bangladesh's largest online grocery, building high-throughput backend and full-stack systems in .NET/F# and React. I own systems end to end — architecture, delivery, operations, mentoring — and I like problems where correctness and scale both matter: supply-chain logistics, customer-success tooling, geocoding, and LLM pipelines in production.
 
-- 🔭 Currently leading **Premium Care**, Chaldal's customer-success CRM — a state-machine-driven microservice serving 100k+ customers and a ~300-agent sales team; previously built the Gemini batch LLM pipeline (**~70k requests/day**) and the in-house geocoding system that replaced Google Maps API
+- 🔭 Currently tech lead and sole maintainer of **Premium Care**, the service behind Chaldal's concierge sales programme (~300 agents); also sole author of the Gemini batch LLM pipeline (**~70k requests/day**)
 - 🛠️ Building on the side: **xRetail** (POS for small shops) and a real-estate platform for **Purple Holdings**
 - 💬 Ask me about F#, event-driven architecture, state machines, and running LLM workloads cheaply
-- 🌏 Open to senior backend / full-stack roles — remote or relocation
+- 🌏 Open to senior backend / full-stack / LLM engineering roles — remote or relocation
 - 📫 iam.mdhanif@gmail.com
 
 ---
@@ -54,7 +54,6 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/Lucene-D22128?style=flat-square&logo=apache&logoColor=white" alt="Lucene">
     <img src="https://img.shields.io/badge/Gemini%20%2F%20Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini / Vertex AI">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
@@ -69,12 +68,13 @@ Senior Software Engineer with 5+ years at **Chaldal** (Bangladesh's largest onli
 ---
 
 ### 🏆 Highlights @ Chaldal
-- **LLM batch pipeline** — Gemini (Vertex AI Batch API) with user-defined prompt templates and runtime variable injection; **~70k requests/day** across sales-messaging and address-normalization workflows.
-- **Mapping System (tech lead)** — in-house geocoding + LLM-assisted address matching for **1.5k–3k addresses/day**; match accuracy **+40%**, Google Maps API cost **−100%**; nightly OpenStreetMap sync.
-- **Premium Care** — customer-success microservice (F#/.NET, React, MSSQL) for **100k+ customers** and a ~300-agent sales team; state-machine lifecycle automation replaced hand-built daily call lists.
-- **Vegetable Network** — F#/Giraffe backend for a perishable-goods supply chain: algorithmic vendor bidding, inventory sorting, warehouse distribution, real-time wastage tracking.
-- **Marketing campaign engine** — Redis-staged, Hangfire-worker pipeline that chews through 100k-number CSV uploads in chunks without touching MSSQL.
-- **Mentoring** — F#/functional programming and clean architecture for junior engineers; code reviews and technical planning for a 4–6 person team.
+- **Premium Care (tech lead, sole maintainer)** — **321 merged PRs** into the F#/Giraffe + MSSQL service behind the concierge sales programme. Built the agent work-queue engine (system-versioned audit tables, optimistic concurrency, due-time indexing) that replaced hand-built daily call lists for ~300 agents, plus state machines for a 20-state customer lifecycle.
+- **LLM batch pipeline (sole author)** — durable Gemini request queue that batches by model and prompt version, submits Vertex AI batch jobs and resumes callers via serialized continuations; **~70k requests/day** at roughly half the cost of real-time calls, with token quotas, usage accounting and an operator console.
+- **AI call-consent compliance** — an LLM detects do-not-call requests in call transcripts, a reviewer confirms, and the number is blocked and synced two-way with the dialer, with a full audit trail.
+- **Mapping & geocoding (tech lead)** — in-house mapping service resolving **1.5k–3k addresses/day**; OpenStreetMap importer with nightly delta sync; LLM-assisted matching raised accuracy **+40%** and took address resolution off paid geocoding.
+- **Vegetable Network (primary owner)** — 228 of 516 merged PRs on an F#/Giraffe perishable-goods supply-chain platform; sole author of vendor bidding; sorting, packaging and loading-bay distribution algorithms that opened a B2B channel.
+- **Accounting automation** — double-entry ledger event model on Hangfire jobs with entity locks, deadlock handling and an idempotent pending-event queue that retries without double-posting.
+- **Mentoring** — F#/functional programming and clean architecture for 2–3 junior engineers.
 
 ---
 
