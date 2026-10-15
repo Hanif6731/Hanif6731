@@ -14,7 +14,6 @@ Senior Software Engineer with 5+ years at **Chaldal (YC S15)**, Bangladesh's lar
 
 - 🔭 Currently tech lead and sole maintainer of **Premium Care**, the service behind Chaldal's concierge sales programme (~300 agents); also sole author of the Gemini batch LLM pipeline (**~70k requests/day**)
 - 🛠️ Building on the side: **xRetail** (POS for small shops) and a real-estate platform for **Purple Holdings**
-- 💬 Ask me about F#, event-driven architecture, state machines, and running LLM workloads cheaply
 - 🌏 Open to senior backend / full-stack / LLM engineering roles — remote or relocation
 - 📫 iam.mdhanif@gmail.com
 
